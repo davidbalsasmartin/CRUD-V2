@@ -15,16 +15,16 @@ A continuación, unas imágenes del crud y su realización:
 <img src="peliculas.png" width="420">
 
 ## Nuevo evento
-<img src="nuevo_evento.png" width="420">
+<img src="nuevoEvento.png" width="420">
 
 ## Modificar película
-<img src="modifica_pelicula.png" width="420">
+<img src="modificaPelicula.png" width="420">
 
 ## Borrar evento
 <img src="borra_evento.png" width="420">
 
 ## Validaciones
-<img src="validar.png" width="420">
+<img src="Valida.png" width="420">
 
 ## Error
 <img src="error-404.png" width="420">
