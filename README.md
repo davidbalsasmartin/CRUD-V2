@@ -12,7 +12,7 @@ A continuación, unas imágenes del crud y su realización:
 <img src="index.png" width="420">
 
 ## Lista de películas
-<img src="pelicula.png" width="420">
+<img src="peliculas.png" width="420">
 
 ## Nuevo evento
 <img src="nuevo_evento.png" width="420">
