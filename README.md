@@ -1,7 +1,7 @@
 # CRUD-V2
 Segunda versión del ejercicio crud película-evento, ahora con un cambio estético, y sobre todo funcional.
 Han sido añadidos ArrayList, HashMap, javascript, servlets, patrón DAO, MDBootstrap,
-validación desde servlet, página de error, gestionado por Maven, etc.
+validación desde servlet, página de error, gestionado por Maven, jstl, etc.
 
 Los ArrayList y HashMap requeridos se han implementado ambos en casi todos los servlets.
 
