@@ -18,7 +18,7 @@ A continuación, unas imágenes del crud y su realización:
 <img src="nuevo_evento.png" width="420">
 
 ## Modificar película
-<img src="modifica_peliculas.png" width="420">
+<img src="modifica_pelicula.png" width="420">
 
 ## Borrar evento
 <img src="borra_evento.png" width="420">
